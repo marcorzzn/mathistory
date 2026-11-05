@@ -1,0 +1,6 @@
+{
+  "name": "Mathematica Mundi — Atlante Storico e Antropologico della Matematica",
+  "description": "Enciclopedia interattiva della storia della matematica dalle origini paleolitiche all'IA e al calcolo quantistico: timeline in 10 ere, mappa globale e locale (Europa, Italia, Campania) delle comunità matematiche, grafo evolutivo delle discipline e applicazioni reali, biografie, confronto dei syllabi mondiali e spazio 3D interattivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
